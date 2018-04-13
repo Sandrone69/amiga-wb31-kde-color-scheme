@@ -1,13 +1,14 @@
-# Breeze Beige color scheme
-Breeze modified color scheme to beige colors for KDE Plasma 5.
+# Breeze Hot color scheme
+Breeze modified color scheme to light warm colors. For KDE Plasma 5.
 
 Put the color-scheme in:
 ~/.kde/share/apps/color-schemes/
 
-![resized_breeze-beige-dolphin-logo](https://user-images.githubusercontent.com/38332358/38722233-909aac20-3efd-11e8-80f3-17d845a49fc0.png)
+![resized_breeze-hot-dolphin-logo](https://user-images.githubusercontent.com/38332358/38723485-88c99fde-3f01-11e8-808f-3c4be33a48b2.png)
 
-![resized_breeze-beige-desktop](https://user-images.githubusercontent.com/38332358/38722236-9306c6ba-3efd-11e8-8442-718ef236b5c1.png)
+![resized_breeze-hot-dolphin](https://user-images.githubusercontent.com/38332358/38723489-8b1ea2b6-3f01-11e8-8cc3-cc3bbe819f65.png)
 
-![resized_breeze-beige-dolphin](https://user-images.githubusercontent.com/38332358/38722238-9602f3a2-3efd-11e8-868e-55f3f6792a57.png)
+![resized_breeze-hot-buttons](https://user-images.githubusercontent.com/38332358/38723491-8cf8ffdc-3f01-11e8-8455-e8154da06119.png)
 
-![resized_breeze-beige-buttons](https://user-images.githubusercontent.com/38332358/38722242-97ef47d8-3efd-11e8-8f56-401c95b7aa34.png)
+![resized_breeze-hot-desktop](https://user-images.githubusercontent.com/38332358/38723492-8e940382-3f01-11e8-9b3c-47e80f685a89.png)
+
