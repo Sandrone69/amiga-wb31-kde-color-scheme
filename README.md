@@ -1,15 +1,12 @@
-# Lime color scheme
-Lime color scheme for KDE Plasma 5.
+# Peach World color scheme
+Peach color scheme for KDE Plasma 5.
 
 Put the color-scheme in:
 ~/.kde/share/apps/color-schemes/
 
-![resized_lime-dolphin-logo](https://user-images.githubusercontent.com/38332358/38723661-177c468c-3f02-11e8-84ce-80c3111be87e.png)
+![resized_peach-world-dolphin](https://user-images.githubusercontent.com/38332358/38723847-a50064c0-3f02-11e8-82f8-6eadc7c2028d.png)
 
-![resized_lime-dolphin](https://user-images.githubusercontent.com/38332358/38723664-19bb925e-3f02-11e8-9762-cbbabcbe3b9d.png)
+![resized_peach-world-buttons](https://user-images.githubusercontent.com/38332358/38723849-a7f80e12-3f02-11e8-9a37-57a298695cca.png)
 
-![resized_lime-buttons](https://user-images.githubusercontent.com/38332358/38723667-1b087b68-3f02-11e8-845a-3d28451cbc32.png)
-
-![resized_lime-desktop](https://user-images.githubusercontent.com/38332358/38723673-1ce46280-3f02-11e8-9361-71c97a20304d.png)
-
+![resized_peach-world-desktop](https://user-images.githubusercontent.com/38332358/38723851-a98ff668-3f02-11e8-879d-6ee4b42443ed.png)
 
