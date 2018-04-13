@@ -1,14 +1,15 @@
-# Breeze Hot color scheme
-Breeze modified color scheme to light warm colors. For KDE Plasma 5.
+# Lime color scheme
+Lime color scheme for KDE Plasma 5.
 
 Put the color-scheme in:
 ~/.kde/share/apps/color-schemes/
 
-![resized_breeze-hot-dolphin-logo](https://user-images.githubusercontent.com/38332358/38723485-88c99fde-3f01-11e8-808f-3c4be33a48b2.png)
+![resized_lime-dolphin-logo](https://user-images.githubusercontent.com/38332358/38723661-177c468c-3f02-11e8-84ce-80c3111be87e.png)
 
-![resized_breeze-hot-dolphin](https://user-images.githubusercontent.com/38332358/38723489-8b1ea2b6-3f01-11e8-8cc3-cc3bbe819f65.png)
+![resized_lime-dolphin](https://user-images.githubusercontent.com/38332358/38723664-19bb925e-3f02-11e8-9762-cbbabcbe3b9d.png)
 
-![resized_breeze-hot-buttons](https://user-images.githubusercontent.com/38332358/38723491-8cf8ffdc-3f01-11e8-8455-e8154da06119.png)
+![resized_lime-buttons](https://user-images.githubusercontent.com/38332358/38723667-1b087b68-3f02-11e8-845a-3d28451cbc32.png)
 
-![resized_breeze-hot-desktop](https://user-images.githubusercontent.com/38332358/38723492-8e940382-3f01-11e8-9b3c-47e80f685a89.png)
+![resized_lime-desktop](https://user-images.githubusercontent.com/38332358/38723673-1ce46280-3f02-11e8-9361-71c97a20304d.png)
+
 
